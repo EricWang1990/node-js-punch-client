@@ -1,6 +1,9 @@
 
 ===
 #從此不會再忘記打卡囉！！！   
+
+![Image of punch-client](http://i.imgur.com/Pm0C3wS.gif)
+
 ===
 1. 請確認已安裝 [nodejs](https://nodejs.org/en/) 環境
 2. Open `auto-run.sh` 設定你的 EMP_ID、EMP_PW (Default: `test`/`test123`)
@@ -137,4 +140,6 @@ Using Launchd to run a script every 5 mins on a Mac
 Creating Launch Daemons and Agents
 <https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ>
 
+製作GIF動畫
+<http://gifmaker.me/>
 
