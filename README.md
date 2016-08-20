@@ -2,6 +2,10 @@
 ===
 #從此不會再忘記打卡囉！！！   
 ===
+1. 請確認已安裝 [nodejs](https://nodejs.org/en/) 環境
+2. Open `auto-run.sh` 設定你的 EMP_ID、EMP_PW (Default: `test`/`test123`)
+3. Open `config.js` 設定你的 WiFi SSID (Default: `Punch-Wifi`)
+4. Run  `sh ./auto-run.sh`
 
 ### 懶人安裝包(-測試中, 目前無法正常Work-)
 下載、安裝、執行一次打卡  
@@ -132,3 +136,5 @@ Using Launchd to run a script every 5 mins on a Mac
 
 Creating Launch Daemons and Agents
 <https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ>
+
+
